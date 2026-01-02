@@ -1,0 +1,19 @@
+nw-page-editor (2022.09.13-1) unstable; urgency=medium
+
+  * Updated to version 2022.09.13
+  * Bundled NW.js runtime (v0.44.4) - no external dependencies required
+  * Modified launcher script to use bundled NW.js
+
+ -- Mauricio Villegas <mauricio_ville@yahoo.com>  Fri, 02 Jan 2026 16:53:21 -0500
+
+nw-page-editor (1.4-1) UNRELEASED; urgency=low
+
+  * Updated versions of canvas libraries.
+
+ -- Mauricio Villegas <mauricio_ville@yahoo.com>  Mon, 21 Mar 2016 10:46:03 +0200
+
+nw-page-editor (1.3-1) UNRELEASED; urgency=low
+
+  * Initial packaged version.
+
+ -- Mauricio Villegas <mauricio_ville@yahoo.com>  Sat, 5 Mar 2016 16:14:19 +0200

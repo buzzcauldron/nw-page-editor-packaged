@@ -1,0 +1,16 @@
+Source: nw-page-editor
+Maintainer: Mauricio Villegas <mauricio_ville@yahoo.com>
+Section: web
+Priority: optional
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 9), curl, tar, gzip
+
+Package: nw-page-editor
+Architecture: amd64
+Depends: ${misc:Depends}
+Description: Simple NW.js app for visual editing of Page XML files.
+ This package includes a bundled version of NW.js, so no additional
+ dependencies are required. The application allows viewing/editing ground
+ truth or predicted information for document processing and text recognition.
+ The edition is done interactively and visually on top of images of scanned
+ documents.
